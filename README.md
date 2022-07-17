@@ -15,7 +15,7 @@ A CNN architecture primarily involves three types of layers:
 ### Fully connected layer
 I applied batch-normalization after each convolution layer and a dropout layer after each max-pooling layer.
 
-you can see the overl structure of our CNN model below:
+you can see the overal structure of our CNN model below:
 ![image](https://user-images.githubusercontent.com/72692826/178096520-478a9ef2-60ea-48bc-8929-81688a295b37.png)
 
 # Results
